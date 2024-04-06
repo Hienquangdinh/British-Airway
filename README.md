@@ -10,8 +10,8 @@ This project will simulate a data team at British Airways, from ETL to Business 
 Air Inequality presents a comprehensive platform for evaluating the quality of services provided by British Airways. Through a diverse range of customer reviews and ratings, the website offers valuable insights into various aspects of the airline's performance, including service quality, cabin comfort, onboard amenities, and overall customer satisfaction. Air Inequality serves as a platform where customers can provide feedback and reviews about their experiences with British Airways. While offering valuable insights into service quality and customer satisfaction, it's important to note that the data may be biased as it relies on customer surveys.
 
 ### Cleaned Data
-
-
+....
+* Test 1,2,3
 
 ## TL; DR:
 **Problems:**
